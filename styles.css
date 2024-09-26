@@ -183,6 +183,10 @@ main {
     background-image: url('circuito.png');
 }
 
+.encuesta-image {
+    background-image: url('encuesta.png');
+}
+
 .social-media a {
     margin-right: 10px;
     color: #fff;
